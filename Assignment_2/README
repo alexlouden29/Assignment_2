@@ -1,0 +1,4 @@
+This program is hard-coded to read only the PANID, MAC Addresses, and RSSI_M value per MAC Address from a file called "neighbor-dump.txt".
+It could easily be edited to use a different file, parse a slightly different format, or pull out additional values.
+
+To run the program, simply load in eclipse and click run.  The program can also be run from the command line with no arguments.
